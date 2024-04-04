@@ -1,0 +1,29 @@
+*{
+    font-size: 1.4rem;
+}
+
+body{
+        background-color: rgb(0, 0, 0);
+        color: white;
+        padding: 1rem;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    gap: 4px;
+}
+
+ul{
+    display: flex;
+    flex-flow: column;
+    justify-content: left;
+    list-style-type: none;
+
+}
+
+input,button{
+    border-radius: 10px;
+    padding: 2px;
+    
+}
