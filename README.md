@@ -48,7 +48,7 @@ This is a basic chat application built using Socket.io. It allows users to join 
 
 ## Usage
 
-- Enter a username.
+- Enter server
 - Choose a chat room or create a new one.
 - Start messaging!
 
