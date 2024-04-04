@@ -1,4 +1,3 @@
-**Name: Socket.io Chat App**
 
 **README.md**
 
